@@ -15,8 +15,15 @@
 
 ### for code of Day-2 click [here](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Day%202%20Simple%20Linear%20Regression.ipynb)
 
-# Day 1-Working with Pandas
+# Day 3-Logisitics Regression
 
 ![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/%23100daysofmlcodeday%20-%203%C2%A9%20harshit%20ahluwalia.png)
 
 ### for code of Day-3 click [here]()
+
+# Cheet Sheet on Scikit Learn
+
+![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Cheat%20Sheet.png)
+
+
+
