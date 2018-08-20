@@ -21,9 +21,13 @@
 
 ### for code of Day-3 click [here]()
 
-# Cheet Sheet on Scikit Learn
+# Day 4 Cheet Sheet on Scikit Learn
 
 ![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Cheat%20Sheet.png)
+
+# Day 5 K-Means Clustering
+
+![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Day-5_K-Means_Clustering.png)
 
 
 
