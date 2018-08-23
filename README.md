@@ -1,4 +1,4 @@
-# 100DaysOfMLCode
+# 100-Days-Of-ML-Code
 ### By Harshit Ahluwalia
 ## 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
 # Day 1-Working with Pandas
