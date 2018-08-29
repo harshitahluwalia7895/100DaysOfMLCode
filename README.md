@@ -31,3 +31,8 @@
 
 
 
+# Top Algorithms for Prediction
+
+![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Top_Algorithms_for_Predications.png)
+
+
