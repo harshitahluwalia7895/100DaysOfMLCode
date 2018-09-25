@@ -36,4 +36,8 @@
 
 ![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Top_Algorithms_for_Predications.png)
 
+# Machine Learning vs Artificial Intelligence . What's the difference ? let's see...
+
+![alt text]()
+
 
