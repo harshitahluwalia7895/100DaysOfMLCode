@@ -38,6 +38,6 @@
 
 # Machine Learning vs Artificial Intelligence . What's the difference ? let's see...
 
-![alt text]()
+![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/AI%20vs%20ML.jpg)
 
 
