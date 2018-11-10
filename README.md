@@ -41,3 +41,8 @@
 ![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/AI%20vs%20ML.jpg)
 
 
+# Data Science Resources
+
+![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Data%20Science%20Resources.jpg)
+
+
