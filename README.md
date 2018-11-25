@@ -11,13 +11,11 @@
 * Spend most of my time on the basics of **statistics**
 * Then have a look at 1 or 2 very common techniques. (e.g., <code>linear regression</code> and <code>logistic regression</code>)
 * Take a dataset that interests you and do some descriptive statistics on it (counts, max, min, median, plots etc) and discover as many weird things in the data as possible. Weird meaning stuff that does not seem right.
-* Now try to answer a question for yourself on the above dataset. Do this by (A) solving the weird stuff, (B) getting the data into a format that works for (C) one of the common techniques you studied. It is okay if you hack the code together with lots of **googling**. (do sanity checks on your results though ;))
+* Now try to answer a question for yourself on the above dataset. Do this by (A) solving the weird stuff, (B) getting the data into a format that works for (C) one of the common techniques you studied. It is okay if you hack the code together with lots of **googling**. (do sanity checks on your results though ;)
 
 <br>
-<br><br>
-Allow me to elaborate a bit<br>
 **Basic Statistics**
-One of the most easy pitfalls is to just take off-the-shelf implementations of algorithms and throw them against your problem. But most algorithms are based on assumptions and all of them have some limitations. A good grasp of basic statistics will help you:<br>
+* One of the most easy pitfalls is to just take off-the-shelf implementations of algorithms and throw them against your problem. But most algorithms are based on assumptions and all of them have some limitations. A good grasp of basic statistics will help you:<br>
 * Determine whether the assumptions hold.
 * What they mean for your choice of algorithm
 * Reason about the limitations they imply
