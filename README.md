@@ -1,6 +1,14 @@
 # 100-Days-Of-ML-Code
 ### By Harshit Ahluwalia
 ## 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
+
+
+# How to Learn Machine Learning
+
+![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/How%20to%20Learn%20Machine%20Learning.jpg)
+
+
+
 # Will Help all the freshers in machine learning for getting started
 # Day 1-Working with Pandas
 
@@ -44,5 +52,3 @@
 # Data Science Resources
 
 ![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Data%20Science%20Resources.jpg)
-
-
