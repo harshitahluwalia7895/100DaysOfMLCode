@@ -42,6 +42,44 @@ Duplicate ID's
 <br>
 <br>
 
+
+
+##### So You want to Learn Machine Learning in 30 Days . you need to Devote About ML & work hard ,in Machine Learning There are Various Concepts are there .
+
+Better to take any Online Course. then note down all course content and Prepare Schedule for 30 Days . i will Suggest you Best Online Machine Learning Course.
+
+[Machine Learning by Standford University, Mentor - Andrew Ng](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=QhjctqYUCD0&ranSiteID=QhjctqYUCD0-DfXMi.hmANw62KhzaGwemA&siteID=QhjctqYUCD0-DfXMi.hmANw62KhzaGwemA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=QhjctqYUCD0)
+
+#### Topics include:
+<br>
+(i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks).
+<br>
+(ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning).
+<br>
+(iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).
+<br>
+The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
+<br>
+<br>
+
+[Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/?ranMID=39197&ranEAID=QhjctqYUCD0&ranSiteID=QhjctqYUCD0-mecwt8rl2iQ4lG6NQ9dD8w&siteID=QhjctqYUCD0-mecwt8rl2iQ4lG6NQ9dD8w&LSNPUBID=QhjctqYUCD0)
+
+This course is fun and exciting, but at the same time we dive deep into Machine Learning. It is structured the following way:
+
+* Part 1 - Data Preprocessing
+* Part 2 - Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree Regression, Random Forest Regression
+* Part 3 - Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification
+* Part 4 - Clustering: K-Means, Hierarchical Clustering
+* Part 5 - Association Rule Learning: Apriori, Eclat
+* Part 6 - Reinforcement Learning: Upper Confidence Bound, Thompson Sampling
+* Part 7 - Natural Language Processing: Bag-of-words model and algorithms for NLP
+* Part 8 - Deep Learning: Artificial Neural Networks, Convolutional Neural Networks
+* Part 9 - Dimensionality Reduction: PCA, LDA, Kernel PCA
+* Part 10 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost.
+Moreover, the course is packed with practical exercises which are based on live examples. So not only will you learn the theory, but you will also get some hands-on practice building your own models.
+
+
+
 # Will Help all the freshers in machine learning for getting started
 # Day 1-Working with Pandas
 
