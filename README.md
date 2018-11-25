@@ -13,9 +13,8 @@
 * Take a dataset that interests you and do some descriptive statistics on it (counts, max, min, median, plots etc) and discover as many weird things in the data as possible. Weird meaning stuff that does not seem right.
 * Now try to answer a question for yourself on the above dataset. Do this by (A) solving the weird stuff, (B) getting the data into a format that works for (C) one of the common techniques you studied. It is okay if you hack the code together with lots of **googling**. (do sanity checks on your results though ;)
 
-<br>
 **Basic Statistics**
-* One of the most easy pitfalls is to just take off-the-shelf implementations of algorithms and throw them against your problem. But most algorithms are based on assumptions and all of them have some limitations. A good grasp of basic statistics will help you:<br>
+<br> One of the most easy pitfalls is to just take off-the-shelf implementations of algorithms and throw them against your problem. But most algorithms are based on assumptions and all of them have some limitations. A good grasp of basic statistics will help you:
 * Determine whether the assumptions hold.
 * What they mean for your choice of algorithm
 * Reason about the limitations they imply
@@ -24,7 +23,6 @@
 
 **Common Techniques**
 * Early on, you actually better go deep than broad, because many concepts/elements return any way in other algorithms.
-<br><br><br>
 * I mention two types of regressions because in many cases, you'll get a decent answer with these techniques. Also, it is in some sense amazing how something that is basically 'draw trendline' in Excel actually goes so deep. Not that all of it is taken that heavily into account in practice, but it still is good to have it in the back of your head. Especially for those times where you get weird results.
 
 **Weird Data Stuff**
