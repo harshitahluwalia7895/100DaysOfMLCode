@@ -5,7 +5,7 @@
 
 # How to Learn Machine Learning
 
-![alt text]()
+![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/How%20to%20learn%20machine%20learning%20in%2030%20days.jpg)
 
 
 # Will Help all the freshers in machine learning for getting started
