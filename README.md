@@ -78,7 +78,9 @@ This course is fun and exciting, but at the same time we dive deep into Machine 
 * Part 10 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost.
 Moreover, the course is packed with practical exercises which are based on live examples. So not only will you learn the theory, but you will also get some hands-on practice building your own models.
 
+# Workflow on Data Analysis
 
+![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Data%20Analysis%20Workflow.jpg)
 
 # Will Help all the freshers in machine learning for getting started
 # Day 1-Working with Pandas
