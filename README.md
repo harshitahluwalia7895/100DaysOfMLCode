@@ -1,5 +1,5 @@
 # 100-Days-Of-ML-Code
-##### By Harshit Ahluwalia
+##### By HARSHIT AHLUWALIA
 ## 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
 
 
