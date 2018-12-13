@@ -78,6 +78,22 @@ This course is fun and exciting, but at the same time we dive deep into Machine 
 * Part 10 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost.
 Moreover, the course is packed with practical exercises which are based on live examples. So not only will you learn the theory, but you will also get some hands-on practice building your own models.
 
+# Beginner Data Science 
+### Books for April - May 
+You can Download all the required books from here
+[Mastering Feature Engineering](http://dl.farinsoft.ir/ebooks/Mastering-Feature-Engineering-Principles-Techniques.pdf)
+[R for Data Science](https://r4ds.had.co.nz/)
+[Python for Data Analysis](https://www.bu.edu/tech/files/2017/09/Python-for-Data-Analysis.pdf)
+
+
+### Books for June - Aug
+You can Download all the required books from here
+[The Element of Stastistics Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+[An Introduction to Stastistics Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
+[Machine Learning with R](https://www.packtpub.com/packt/free-ebook/r-machine-learning)
+
+
+
 # Workflow on Data Analysis
 
 ![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Data%20Analysis%20Workflow.jpg)
