@@ -2,7 +2,8 @@
 #### By Harshit Ahluwalia
 ## 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
 
-
+## My Journey towards Machine Learning upto 2018
+![alt_text]()
 # How to Learn Machine Learning
 <code>While i don't want to overstate the complexity of the field, 30 days is awfully short.</code>
 
