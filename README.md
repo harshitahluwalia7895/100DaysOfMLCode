@@ -3,7 +3,7 @@
 ## 100 Days of Machine Learning Coding as proposed by [Siraj Raval](https://github.com/llSourcell)
 
 ## My Journey towards Machine Learning upto 2018
-![alt_text]()
+![alt_text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/collage.jpg)
 # How to Learn Machine Learning
 <code>While i don't want to overstate the complexity of the field, 30 days is awfully short.</code>
 
