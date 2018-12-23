@@ -145,3 +145,7 @@ You can Download all the required books from here<br>
 # Data Science Resources
 
 ![alt text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Data%20Science%20Resources.jpg)
+
+
+# Infographics fro Youtube Channel
+![alt_text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Machine%20Learning%20Strategy.jpg)
