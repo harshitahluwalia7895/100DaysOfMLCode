@@ -151,3 +151,4 @@ You can Download all the required books from here<br>
 ![alt_text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Machine%20Learning%20Strategy.jpg)
 
 ##### Infographics for Python 
+![alt_text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Youtube%20first%20Video%20Infographic.jpg)
