@@ -5,7 +5,7 @@
 ## My Journey towards Machine Learning upto 2018
 ![alt_text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/collage.jpg)
 
-#### At the end of this readme I've attached some of the Amazing infographics that are from Analytics Vidhya and <code>soon I will be organising 26 weeks of ML Code where you can learn Machine Learning in just 26 weeks . I will post the Schedule sooon that on which week you have to study which topic</code> 
+#### At the end of this readme I've attached some of the Amazing infographics that are from Analytics Vidhya and <code> I have started  26 weeks of ML Code where you can learn Machine Learning in just 26 weeks . I will post the Schedule sooon that on which week you have to study which topic</code> 
 
 # How to Learn Machine Learning
 <code>While i don't want to overstate the complexity of the field, 30 days is awfully short.</code>
@@ -155,3 +155,44 @@ You can Download all the required books from here<br>
 
 ##### Infographics for Python 
 ![alt_text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Youtube%20first%20Video%20Infographic.jpg)
+
+# 26 weeks of ML Code
+# Infographics and articles from Analytics Vidhya
+
+### <code>Week 1 : Git Basics & Introduction to Python</code>
+![alt_text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/Week%201%20Quick%20Guide%20to%20learn%20Python%20for%20Data%20Science.jpg)
+
+Download infographic (https://bit.ly/2HH9JcG)
+
+more to read (https://bit.ly/2HH9JcG)
+
+### <code>Week 2 : First Step with Numpy</code>
+
+### <code>Week 3 : Numpy Advance & Pandas </code>
+
+### <code>Week 4 : Pandas Getting Deeper/code>
+
+### <code>Week 5 : Visualisation on Matplotlib/Seaborn</code>
+
+### <code>Week 6 : Statistics </code>
+
+### <code>Week 7 : Statistics </code>
+
+### <code>Week 8 : Exploratory Data Analysis - EDA </code>
+
+### <code>Week 9 : Linear Regression </code>
+
+### <code>Week 10 : Data Preprocessing and Feature Engineering </code>
+
+### <code>Week 11 : Feature Selection </code>
+
+### <code>Week 12 :  </code>
+
+### <code>Week 13 :  </code>
+
+### <code>Week 14 :  </code>
+
+### <code>Week 15 :  </code>
+
+
+
