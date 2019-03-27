@@ -5,7 +5,7 @@
 ## My Journey towards Machine Learning upto 2018
 ![alt_text](https://github.com/harshitahluwalia7895/100DaysOfMLCode/blob/master/collage.jpg)
 
-#### At the end of this readme I've attached some of the Amazing infographics that are from Analytics Vidhya and <code> I have started  26 weeks of ML Code where you can learn Machine Learning in just 26 weeks . I will post the Schedule sooon that on which week you have to study which topic</code> 
+#### At the end of this readme I've attached some of the Amazing infographics that are from Analytics Vidhya(taken the permission from the author) and <code> I have started  26 weeks of ML Code where you can learn Machine Learning in just 26 weeks . I will post the Schedule sooon that on which week you have to study which topic</code> 
 
 # How to Learn Machine Learning
 <code>While i don't want to overstate the complexity of the field, 30 days is awfully short.</code>
