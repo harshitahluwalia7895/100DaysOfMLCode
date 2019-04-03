@@ -166,33 +166,4 @@ Download infographic (https://bit.ly/2HH9JcG)
 
 more to read (https://bit.ly/2HH9JcG)
 
-### <code>Week 2 : First Step with Numpy</code>
-
-### <code>Week 3 : Numpy Advance & Pandas </code>
-
-### <code>Week 4 : Pandas Getting Deeper/code>
-
-### <code>Week 5 : Visualisation on Matplotlib/Seaborn</code>
-
-### <code>Week 6 : Statistics </code>
-
-### <code>Week 7 : Statistics </code>
-
-### <code>Week 8 : Exploratory Data Analysis - EDA </code>
-
-### <code>Week 9 : Linear Regression </code>
-
-### <code>Week 10 : Data Preprocessing and Feature Engineering </code>
-
-### <code>Week 11 : Feature Selection </code>
-
-### <code>Week 12 :  </code>
-
-### <code>Week 13 :  </code>
-
-### <code>Week 14 :  </code>
-
-### <code>Week 15 :  </code>
-
-
 
