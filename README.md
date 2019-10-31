@@ -1,3 +1,4 @@
+[![Inline docs](http://inch-ci.org/github/{harshitahluwalia7895}/{100DaysOfMLCode}.svg?branch=master)](http://inch-ci.org/github/{harshitahluwalia7895}/{100DaysOfMLCode})
 
 # 100-Days-Of-ML-Code
 #### By Harshit Ahluwalia
